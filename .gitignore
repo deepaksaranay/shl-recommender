@@ -1,0 +1,4 @@
+data/catalog.json
+__pycache__/
+.env
+*.pyc
